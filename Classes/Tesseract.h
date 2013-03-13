@@ -6,7 +6,7 @@
 //  Copyright (c) 2012 Loïs Di Qual.
 //  Under MIT License. See 'LICENCE' for more informations.
 //
-
+//
 #import <Foundation/Foundation.h>
 
 @interface Tesseract : NSObject {    
